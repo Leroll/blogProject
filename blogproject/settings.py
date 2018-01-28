@@ -25,7 +25,7 @@ SECRET_KEY = 'oyyz3-o3x3j+pe^bcs-)xw9@y)1o$x2fj+7o1cj)7x*v5!@@9('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost', '.leroll.tech']
+ALLOWED_HOSTS = ['127.0.0.1','127.0.0.1/admin/' 'localhost','.leroll.tech']
 
 
 # Application definition
